@@ -1,0 +1,36 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Source Sans Pro', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: #555;
+  font-size: 30px;
+
+}
+
+h1 {
+  margin-top: 1em;
+  padding-top: 1em;
+  font-size: 90px;
+}
+
+h1 .h1DefArt{
+  color: #87CEFA;
+}
+
+ul {
+  list-style-type: none;
+
+}
+li:hover{
+  color: #87CEFA;
+}
+
+a {
+
+}
+
+header {
+
+}
